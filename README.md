@@ -2,34 +2,35 @@
 
 Desenvolvedor Full-Stack | Criando soluções inovadoras com **Go**, **JavaScript**, **React** e muito mais.
 
-![Tiago De Liz](https://link-da-imagem-do-perfil.com)
+### Veja todos os meus projetos e mais detalhes sobre o que faço! [Portfólio Completo](https://tiago-liz.vercel.app)
+
 
 ## 🛠️ Tecnologias que Conheço
 
 ### **Frontend**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/html5.svg" alt="HTML5 Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/javascript.svg" alt="JavaScript Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/css3.svg" alt="CSS3 Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/tailwindcss.svg" alt="TailwindCSS Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/react.svg" alt="React Logo" width="40" height="40">
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### **Backend**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/flutter.svg" alt="Flutter Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/go.svg" alt="Go Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/delphi.svg" alt="Delphi Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/csharp.svg" alt="C# Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/dart.svg" alt="Dart Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/lua.svg" alt="Lua Logo" width="40" height="40">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-1D58FF?style=for-the-badge&logo=delphi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### **Banco de Dados e Ferramentas**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/postgresql.svg" alt="PostgreSQL Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/microsoftsqlserver.svg" alt="SQL Server Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/nginx.svg" alt="NGINX Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/docker.svg" alt="Docker Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/bitbucket.svg" alt="BitBucket Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/github.svg" alt="GitHub Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/githubactions.svg" alt="GitHub Actions Logo" width="40" height="40">
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/git.svg" alt="Git Logo" width="40" height="40">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -38,13 +39,19 @@ Desenvolvedor Full-Stack | Criando soluções inovadoras com **Go**, **JavaScrip
 ### [New Games Release](https://newgamesrelease.com)
 Plataforma de jogos com integração à API IGDB, sistema de login seguro, pagamentos via Stripe e Mercado Pago, e backend desenvolvido em **Go** com **PostgreSQL**. Infraestrutura em Docker, Cloudflare e deploy automático via **GitHub Actions**.
 
-### [Visual Gessos](link-do-projeto)
+<img src="https://newgamesrelease.com/ngr_banner.gif" width="200" height="auto">
+
+### [Visual Gessos](https://visualgessos.com)
 Landing page para a empresa Visual Gessos com um design responsivo. Tecnologias utilizadas: HTML, JavaScript, TailwindCSS
 
-### [CBL Automaq](link-do-projeto)
+### [CBL Automaq](https://cblautomaq.com)
 Landing page para a empresa CBL Automaq com um design responsivo. Tecnologias utilizadas: HTML, JavaScript, TailwindCSS
 
 ---
+
+## 📊 Linguagens Mais Usadas
+
+![Tiago-De-Liz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-De-Liz&layout=compact&theme=radical)
 
 ## 📱 Me Encontre
 
@@ -53,21 +60,13 @@ Landing page para a empresa CBL Automaq com um design responsivo. Tecnologias ut
 - [Email](mailto:tiagopdeliz@gmail.com)
 
 ---
-
-## 🧑‍💻 Sobre Mim
 Sou apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios para melhorar minhas habilidades e criar soluções inovadoras.
-
-### 📊 GitHub Stats
-
-![Tiago-De-Liz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago-De-Liz&show_icons=true&theme=radical)
 
 ---
 
 ### **Badges e Links**
-Aqui estão alguns badges legais para mostrar no seu **README.md**:
 
-- ![Badge de Contribuições](https://img.shields.io/badge/Contribuições-Open%20Source-green?style=flat)
 - ![Badge de Trabalho Remoto](https://img.shields.io/badge/Trabalho%20Remoto-Atualmente%20Disponível-green?style=flat)
-- ![Badge de Linguagem](https://img.shields.io/badge/Linguagens-GO,%20React,%20JavaScript-blue?style=flat)
+- ![Badge de Linguagem](https://img.shields.io/badge/Linguagens-GO,%20React,%20JavaScript,%20Delphi-blue?style=flat)
 
 ---
